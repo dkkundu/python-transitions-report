@@ -5,7 +5,7 @@ pip install psycopg2
 ```
 
 ### ADD Database in db_connection.py
-- user = "tank_user"
+- user = "bank_user"
 - password = "mypassword"
 - host = "127.0.0.1"
 - port = "5432"

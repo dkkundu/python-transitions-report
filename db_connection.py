@@ -1,11 +1,11 @@
 import psycopg2
 import logger
 
-user = "bksp_user"
-password = "django"
+user = "bank_user"
+password = "mypassword"
 host = "127.0.0.1"
 port = "5432"
-database = "bank_db"
+database = "bank_db_name"
 
 
 def connect_to_db():
