@@ -74,3 +74,5 @@ VALUES
     (1199, '2023-10-24', 'Dinner at a restaurant', 323.00, 'Savings');
 ```
 # RUN main.py
+## Out put
+![img.png](img.png)
